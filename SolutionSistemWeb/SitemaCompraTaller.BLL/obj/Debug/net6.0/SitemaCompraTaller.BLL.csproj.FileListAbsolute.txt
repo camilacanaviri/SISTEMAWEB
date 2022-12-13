@@ -1,0 +1,12 @@
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SitemaCompraTaller.BLL\bin\Debug\net6.0\SitemaCompraTaller.BLL.deps.json
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SitemaCompraTaller.BLL\bin\Debug\net6.0\SitemaCompraTaller.BLL.dll
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SitemaCompraTaller.BLL\bin\Debug\net6.0\SitemaCompraTaller.BLL.pdb
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SitemaCompraTaller.BLL\obj\Debug\net6.0\SitemaCompraTaller.BLL.csproj.AssemblyReference.cache
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SitemaCompraTaller.BLL\obj\Debug\net6.0\SitemaCompraTaller.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SitemaCompraTaller.BLL\obj\Debug\net6.0\SitemaCompraTaller.BLL.AssemblyInfoInputs.cache
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SitemaCompraTaller.BLL\obj\Debug\net6.0\SitemaCompraTaller.BLL.AssemblyInfo.cs
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SitemaCompraTaller.BLL\obj\Debug\net6.0\SitemaCompraTaller.BLL.csproj.CoreCompileInputs.cache
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SitemaCompraTaller.BLL\obj\Debug\net6.0\SitemaCompraTaller.BLL.dll
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SitemaCompraTaller.BLL\obj\Debug\net6.0\refint\SitemaCompraTaller.BLL.dll
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SitemaCompraTaller.BLL\obj\Debug\net6.0\SitemaCompraTaller.BLL.pdb
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SitemaCompraTaller.BLL\obj\Debug\net6.0\ref\SitemaCompraTaller.BLL.dll

@@ -1,0 +1,12 @@
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SistemaCompra.IOC\bin\Debug\net6.0\SistemaCompra.IOC.deps.json
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SistemaCompra.IOC\bin\Debug\net6.0\SistemaCompra.IOC.dll
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SistemaCompra.IOC\bin\Debug\net6.0\SistemaCompra.IOC.pdb
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SistemaCompra.IOC\obj\Debug\net6.0\SistemaCompra.IOC.csproj.AssemblyReference.cache
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SistemaCompra.IOC\obj\Debug\net6.0\SistemaCompra.IOC.GeneratedMSBuildEditorConfig.editorconfig
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SistemaCompra.IOC\obj\Debug\net6.0\SistemaCompra.IOC.AssemblyInfoInputs.cache
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SistemaCompra.IOC\obj\Debug\net6.0\SistemaCompra.IOC.AssemblyInfo.cs
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SistemaCompra.IOC\obj\Debug\net6.0\SistemaCompra.IOC.csproj.CoreCompileInputs.cache
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SistemaCompra.IOC\obj\Debug\net6.0\SistemaCompra.IOC.dll
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SistemaCompra.IOC\obj\Debug\net6.0\refint\SistemaCompra.IOC.dll
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SistemaCompra.IOC\obj\Debug\net6.0\SistemaCompra.IOC.pdb
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SistemaCompra.IOC\obj\Debug\net6.0\ref\SistemaCompra.IOC.dll

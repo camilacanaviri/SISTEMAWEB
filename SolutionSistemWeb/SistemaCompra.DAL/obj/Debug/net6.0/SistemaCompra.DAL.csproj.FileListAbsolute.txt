@@ -1,0 +1,12 @@
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SistemaCompra.DAL\bin\Debug\net6.0\SistemaCompra.DAL.deps.json
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SistemaCompra.DAL\bin\Debug\net6.0\SistemaCompra.DAL.dll
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SistemaCompra.DAL\bin\Debug\net6.0\SistemaCompra.DAL.pdb
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SistemaCompra.DAL\obj\Debug\net6.0\SistemaCompra.DAL.csproj.AssemblyReference.cache
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SistemaCompra.DAL\obj\Debug\net6.0\SistemaCompra.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SistemaCompra.DAL\obj\Debug\net6.0\SistemaCompra.DAL.AssemblyInfoInputs.cache
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SistemaCompra.DAL\obj\Debug\net6.0\SistemaCompra.DAL.AssemblyInfo.cs
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SistemaCompra.DAL\obj\Debug\net6.0\SistemaCompra.DAL.csproj.CoreCompileInputs.cache
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SistemaCompra.DAL\obj\Debug\net6.0\SistemaCompra.DAL.dll
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SistemaCompra.DAL\obj\Debug\net6.0\refint\SistemaCompra.DAL.dll
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SistemaCompra.DAL\obj\Debug\net6.0\SistemaCompra.DAL.pdb
+D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SistemaCompra.DAL\obj\Debug\net6.0\ref\SistemaCompra.DAL.dll
