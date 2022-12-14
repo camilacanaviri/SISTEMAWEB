@@ -9,5 +9,13 @@
   <ItemGroup>
     <ProjectReference Include="..\SistemWebTaller.Entity\SistemWebTaller.Entity.csproj" />
   </ItemGroup>
+	<ItemGroup>
+
+		<Folder Include="DBContext\" />
+	<Folder Include="Implementacion\" />
+	<Folder Include="Interfaces\" />
+	
+	</ItemGroup>
+
 
 </Project>

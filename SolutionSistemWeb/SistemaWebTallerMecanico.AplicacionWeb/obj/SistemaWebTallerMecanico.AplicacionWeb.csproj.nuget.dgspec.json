@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemaWebTallerMecanico.AplicacionWeb\\SistemaWebTallerMecanico.AplicacionWeb.csproj": {}
+    "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemaWebTallerMecanico.AplicacionWeb\\SistemaWebTallerMecanico.AplicacionWeb.csproj": {}
   },
   "projects": {
-    "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.DAL\\SistemaCompra.DAL.csproj": {
+    "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.DAL\\SistemaCompra.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.DAL\\SistemaCompra.DAL.csproj",
+        "projectUniqueName": "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.DAL\\SistemaCompra.DAL.csproj",
         "projectName": "SistemaCompra.DAL",
-        "projectPath": "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.DAL\\SistemaCompra.DAL.csproj",
-        "packagesPath": "C:\\Users\\CAMIC\\.nuget\\packages\\",
-        "outputPath": "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.DAL\\obj\\",
+        "projectPath": "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.DAL\\SistemaCompra.DAL.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\CAMIC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemWebTaller.Entity\\SistemWebTaller.Entity.csproj": {
-                "projectPath": "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemWebTaller.Entity\\SistemWebTaller.Entity.csproj"
+              "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemWebTaller.Entity\\SistemWebTaller.Entity.csproj": {
+                "projectPath": "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemWebTaller.Entity\\SistemWebTaller.Entity.csproj"
               }
             }
           }
@@ -63,17 +63,17 @@
         }
       }
     },
-    "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.IOC\\SistemaCompra.IOC.csproj": {
+    "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.IOC\\SistemaCompra.IOC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.IOC\\SistemaCompra.IOC.csproj",
+        "projectUniqueName": "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.IOC\\SistemaCompra.IOC.csproj",
         "projectName": "SistemaCompra.IOC",
-        "projectPath": "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.IOC\\SistemaCompra.IOC.csproj",
-        "packagesPath": "C:\\Users\\CAMIC\\.nuget\\packages\\",
-        "outputPath": "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.IOC\\obj\\",
+        "projectPath": "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.IOC\\SistemaCompra.IOC.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.IOC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\CAMIC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -87,11 +87,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.DAL\\SistemaCompra.DAL.csproj": {
-                "projectPath": "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.DAL\\SistemaCompra.DAL.csproj"
+              "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.DAL\\SistemaCompra.DAL.csproj": {
+                "projectPath": "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.DAL\\SistemaCompra.DAL.csproj"
               },
-              "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SitemaCompraTaller.BLL\\SitemaCompraTaller.BLL.csproj": {
-                "projectPath": "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SitemaCompraTaller.BLL\\SitemaCompraTaller.BLL.csproj"
+              "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SitemaCompraTaller.BLL\\SitemaCompraTaller.BLL.csproj": {
+                "projectPath": "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SitemaCompraTaller.BLL\\SitemaCompraTaller.BLL.csproj"
               }
             }
           }
@@ -125,17 +125,17 @@
         }
       }
     },
-    "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemaWebTallerMecanico.AplicacionWeb\\SistemaWebTallerMecanico.AplicacionWeb.csproj": {
+    "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemaWebTallerMecanico.AplicacionWeb\\SistemaWebTallerMecanico.AplicacionWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemaWebTallerMecanico.AplicacionWeb\\SistemaWebTallerMecanico.AplicacionWeb.csproj",
+        "projectUniqueName": "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemaWebTallerMecanico.AplicacionWeb\\SistemaWebTallerMecanico.AplicacionWeb.csproj",
         "projectName": "SistemaWebTallerMecanico.AplicacionWeb",
-        "projectPath": "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemaWebTallerMecanico.AplicacionWeb\\SistemaWebTallerMecanico.AplicacionWeb.csproj",
-        "packagesPath": "C:\\Users\\CAMIC\\.nuget\\packages\\",
-        "outputPath": "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemaWebTallerMecanico.AplicacionWeb\\obj\\",
+        "projectPath": "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemaWebTallerMecanico.AplicacionWeb\\SistemaWebTallerMecanico.AplicacionWeb.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemaWebTallerMecanico.AplicacionWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\CAMIC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -149,14 +149,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.IOC\\SistemaCompra.IOC.csproj": {
-                "projectPath": "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.IOC\\SistemaCompra.IOC.csproj"
+              "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.IOC\\SistemaCompra.IOC.csproj": {
+                "projectPath": "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.IOC\\SistemaCompra.IOC.csproj"
               },
-              "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemWebTaller.Entity\\SistemWebTaller.Entity.csproj": {
-                "projectPath": "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemWebTaller.Entity\\SistemWebTaller.Entity.csproj"
+              "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemWebTaller.Entity\\SistemWebTaller.Entity.csproj": {
+                "projectPath": "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemWebTaller.Entity\\SistemWebTaller.Entity.csproj"
               },
-              "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SitemaCompraTaller.BLL\\SitemaCompraTaller.BLL.csproj": {
-                "projectPath": "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SitemaCompraTaller.BLL\\SitemaCompraTaller.BLL.csproj"
+              "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SitemaCompraTaller.BLL\\SitemaCompraTaller.BLL.csproj": {
+                "projectPath": "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SitemaCompraTaller.BLL\\SitemaCompraTaller.BLL.csproj"
               }
             }
           }
@@ -170,6 +170,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -193,17 +199,17 @@
         }
       }
     },
-    "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemWebTaller.Entity\\SistemWebTaller.Entity.csproj": {
+    "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemWebTaller.Entity\\SistemWebTaller.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemWebTaller.Entity\\SistemWebTaller.Entity.csproj",
+        "projectUniqueName": "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemWebTaller.Entity\\SistemWebTaller.Entity.csproj",
         "projectName": "SistemWebTaller.Entity",
-        "projectPath": "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemWebTaller.Entity\\SistemWebTaller.Entity.csproj",
-        "packagesPath": "C:\\Users\\CAMIC\\.nuget\\packages\\",
-        "outputPath": "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemWebTaller.Entity\\obj\\",
+        "projectPath": "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemWebTaller.Entity\\SistemWebTaller.Entity.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemWebTaller.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\CAMIC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -264,17 +270,17 @@
         }
       }
     },
-    "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SitemaCompraTaller.BLL\\SitemaCompraTaller.BLL.csproj": {
+    "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SitemaCompraTaller.BLL\\SitemaCompraTaller.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SitemaCompraTaller.BLL\\SitemaCompraTaller.BLL.csproj",
+        "projectUniqueName": "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SitemaCompraTaller.BLL\\SitemaCompraTaller.BLL.csproj",
         "projectName": "SitemaCompraTaller.BLL",
-        "projectPath": "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SitemaCompraTaller.BLL\\SitemaCompraTaller.BLL.csproj",
-        "packagesPath": "C:\\Users\\CAMIC\\.nuget\\packages\\",
-        "outputPath": "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SitemaCompraTaller.BLL\\obj\\",
+        "projectPath": "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SitemaCompraTaller.BLL\\SitemaCompraTaller.BLL.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SitemaCompraTaller.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\CAMIC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -288,11 +294,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.DAL\\SistemaCompra.DAL.csproj": {
-                "projectPath": "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.DAL\\SistemaCompra.DAL.csproj"
+              "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.DAL\\SistemaCompra.DAL.csproj": {
+                "projectPath": "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.DAL\\SistemaCompra.DAL.csproj"
               },
-              "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemWebTaller.Entity\\SistemWebTaller.Entity.csproj": {
-                "projectPath": "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemWebTaller.Entity\\SistemWebTaller.Entity.csproj"
+              "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemWebTaller.Entity\\SistemWebTaller.Entity.csproj": {
+                "projectPath": "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemWebTaller.Entity\\SistemWebTaller.Entity.csproj"
               }
             }
           }
@@ -306,6 +312,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "FirebaseAuthentication.net": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "FirebaseStorage.net": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

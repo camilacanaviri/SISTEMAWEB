@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using SistemWebTaller.Entity;
 
-namespace SistemWebTaller.DAL.DBContext;
+namespace SistemaCompra.DAL.DBContext;
 
 public partial class DbtallerMecanicoContext : DbContext
 {
@@ -20,11 +20,13 @@ public partial class DbtallerMecanicoContext : DbContext
 
     public virtual DbSet<CargoMenu> CargoMenus { get; set; }
 
-    public virtual DbSet<Categoria> Categoria { get; set; }
+    public virtual DbSet<Categorium> Categoria { get; set; }
 
     public virtual DbSet<CompraServicio> CompraServicios { get; set; }
 
     public virtual DbSet<Configuracion> Configuracions { get; set; }
+
+    public virtual DbSet<DetalleCompra> DetalleCompras { get; set; }
 
     public virtual DbSet<Empresa> Empresas { get; set; }
 
@@ -43,15 +45,14 @@ public partial class DbtallerMecanicoContext : DbContext
     public virtual DbSet<Vehiculo> Vehiculos { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-    {
-
-    }
+#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
+        => optionsBuilder.UseSqlServer("server = local; database = DBTallerMecanico; Trusted_Connection = true; user=sa ;password=camila124; Encrypt=false ;");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Cargo>(entity =>
         {
-            entity.HasKey(e => e.IdCargo).HasName("PK__Cargo__3D0E29B8788F814F");
+            entity.HasKey(e => e.IdCargo).HasName("PK__Cargo__3D0E29B8008F3EF4");
 
             entity.ToTable("Cargo");
 
@@ -68,7 +69,7 @@ public partial class DbtallerMecanicoContext : DbContext
 
         modelBuilder.Entity<CargoMenu>(entity =>
         {
-            entity.HasKey(e => e.IdCargoMenu).HasName("PK__CargoMen__0AB5DF5010EC5DB1");
+            entity.HasKey(e => e.IdCargoMenu).HasName("PK__CargoMen__0AB5DF50F335650D");
 
             entity.ToTable("CargoMenu");
 
@@ -89,9 +90,9 @@ public partial class DbtallerMecanicoContext : DbContext
                 .HasConstraintName("FK__CargoMenu__idMen__2C3393D0");
         });
 
-        modelBuilder.Entity<Categoria>(entity =>
+        modelBuilder.Entity<Categorium>(entity =>
         {
-            entity.HasKey(e => e.IdCategoria).HasName("PK__Categori__8A3D240C87233107");
+            entity.HasKey(e => e.IdCategoria).HasName("PK__Categori__8A3D240CF2866CC5");
 
             entity.Property(e => e.IdCategoria).HasColumnName("idCategoria");
             entity.Property(e => e.Descripcion)
@@ -106,7 +107,7 @@ public partial class DbtallerMecanicoContext : DbContext
 
         modelBuilder.Entity<CompraServicio>(entity =>
         {
-            entity.HasKey(e => e.IdCompra).HasName("PK__CompraSe__48B99DB75B07DEF7");
+            entity.HasKey(e => e.IdCompra).HasName("PK__CompraSe__48B99DB76CE0C5DA");
 
             entity.ToTable("CompraServicio");
 
@@ -163,9 +164,39 @@ public partial class DbtallerMecanicoContext : DbContext
                 .HasColumnName("valor");
         });
 
+        modelBuilder.Entity<DetalleCompra>(entity =>
+        {
+            entity.HasKey(e => e.IdDetalleCompra).HasName("PK__DetalleC__62C252C1ED3E2C2B");
+
+            entity.ToTable("DetalleCompra");
+
+            entity.Property(e => e.IdDetalleCompra).HasColumnName("idDetalleCompra");
+            entity.Property(e => e.Cantidad).HasColumnName("cantidad");
+            entity.Property(e => e.CategoriaServicio)
+                .HasMaxLength(100)
+                .IsUnicode(false)
+                .HasColumnName("categoriaServicio");
+            entity.Property(e => e.DescripcionServicio)
+                .HasMaxLength(100)
+                .IsUnicode(false)
+                .HasColumnName("descripcionServicio");
+            entity.Property(e => e.IdCompra).HasColumnName("idCompra");
+            entity.Property(e => e.IdServicio).HasColumnName("idServicio");
+            entity.Property(e => e.Precio)
+                .HasColumnType("decimal(10, 2)")
+                .HasColumnName("precio");
+            entity.Property(e => e.Total)
+                .HasColumnType("decimal(10, 2)")
+                .HasColumnName("total");
+
+            entity.HasOne(d => d.IdCompraNavigation).WithMany(p => p.DetalleCompras)
+                .HasForeignKey(d => d.IdCompra)
+                .HasConstraintName("FK__DetalleCo__idCom__5AEE82B9");
+        });
+
         modelBuilder.Entity<Empresa>(entity =>
         {
-            entity.HasKey(e => e.IdEmpresa).HasName("PK__Empresa__75D2CED4685197CB");
+            entity.HasKey(e => e.IdEmpresa).HasName("PK__Empresa__75D2CED445241FD7");
 
             entity.ToTable("Empresa");
 
@@ -208,7 +239,7 @@ public partial class DbtallerMecanicoContext : DbContext
 
         modelBuilder.Entity<Fichaje>(entity =>
         {
-            entity.HasKey(e => e.IdFichaje).HasName("PK__Fichaje__EC61CD282ED1BF8E");
+            entity.HasKey(e => e.IdFichaje).HasName("PK__Fichaje__EC61CD2838D0EE84");
 
             entity.ToTable("Fichaje");
 
@@ -229,7 +260,7 @@ public partial class DbtallerMecanicoContext : DbContext
 
         modelBuilder.Entity<Menu>(entity =>
         {
-            entity.HasKey(e => e.IdMenu).HasName("PK__Menu__C26AF483DB8C3E24");
+            entity.HasKey(e => e.IdMenu).HasName("PK__Menu__C26AF483535274E7");
 
             entity.ToTable("Menu");
 
@@ -263,7 +294,7 @@ public partial class DbtallerMecanicoContext : DbContext
 
         modelBuilder.Entity<NumeroCorrelativo>(entity =>
         {
-            entity.HasKey(e => e.IdNumeroCorrelativo).HasName("PK__NumeroCo__25FB547E776224A7");
+            entity.HasKey(e => e.IdNumeroCorrelativo).HasName("PK__NumeroCo__25FB547EB22B3FC0");
 
             entity.ToTable("NumeroCorrelativo");
 
@@ -281,7 +312,7 @@ public partial class DbtallerMecanicoContext : DbContext
 
         modelBuilder.Entity<ServiciosGenerale>(entity =>
         {
-            entity.HasKey(e => e.IdServicio).HasName("PK__Servicio__CEB981199E2BB5CA");
+            entity.HasKey(e => e.IdServicio).HasName("PK__Servicio__CEB98119CC6B2680");
 
             entity.Property(e => e.IdServicio).HasColumnName("idServicio");
             entity.Property(e => e.Descripcion)
@@ -304,7 +335,7 @@ public partial class DbtallerMecanicoContext : DbContext
 
         modelBuilder.Entity<TipoDocumentoCompra>(entity =>
         {
-            entity.HasKey(e => e.IdTipoDocumentoCompra).HasName("PK__TipoDocu__780BB5988A1C3A76");
+            entity.HasKey(e => e.IdTipoDocumentoCompra).HasName("PK__TipoDocu__780BB59880866A22");
 
             entity.ToTable("TipoDocumentoCompra");
 
@@ -321,7 +352,7 @@ public partial class DbtallerMecanicoContext : DbContext
 
         modelBuilder.Entity<Usuario>(entity =>
         {
-            entity.HasKey(e => e.IdUsuario).HasName("PK__Usuario__645723A67D9E911F");
+            entity.HasKey(e => e.IdUsuario).HasName("PK__Usuario__645723A6E4197254");
 
             entity.ToTable("Usuario");
 
@@ -363,7 +394,7 @@ public partial class DbtallerMecanicoContext : DbContext
 
         modelBuilder.Entity<Vehiculo>(entity =>
         {
-            entity.HasKey(e => e.IdPlaca).HasName("PK__Vehiculo__39B84B9C4BA8B607");
+            entity.HasKey(e => e.IdPlaca).HasName("PK__Vehiculo__39B84B9C0E238427");
 
             entity.ToTable("Vehiculo");
 

@@ -3510,19 +3510,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CAMIC\\.nuget\\packages\\": {}
+    "C:\\Users\\USUARIO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemWebTaller.Entity\\SistemWebTaller.Entity.csproj",
+      "projectUniqueName": "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemWebTaller.Entity\\SistemWebTaller.Entity.csproj",
       "projectName": "SistemWebTaller.Entity",
-      "projectPath": "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemWebTaller.Entity\\SistemWebTaller.Entity.csproj",
-      "packagesPath": "C:\\Users\\CAMIC\\.nuget\\packages\\",
-      "outputPath": "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemWebTaller.Entity\\obj\\",
+      "projectPath": "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemWebTaller.Entity\\SistemWebTaller.Entity.csproj",
+      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+      "outputPath": "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemWebTaller.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\CAMIC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

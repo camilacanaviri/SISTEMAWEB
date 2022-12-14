@@ -23,9 +23,5 @@ public partial class CompraServicio
 
     public DateTime? FechaRegistro { get; set; }
 
-    public virtual TipoDocumentoCompra? IdTipoDocumentoCompraNavigation { get; set; }
-
-    public virtual Usuario? IdUsuarioNavigation { get; set; }
-
-    public virtual ICollection<Vehiculo> Vehiculos { get; } = new List<Vehiculo>();
+   
 }

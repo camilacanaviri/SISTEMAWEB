@@ -19,5 +19,5 @@ public partial class ServiciosGenerale
 
     public DateTime? FechaRegistro { get; set; }
 
-    public virtual Categoria? IdCategoriaNavigation { get; set; }
+    public virtual Categorium? IdCategoriaNavigation { get; set; }
 }

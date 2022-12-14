@@ -9,37 +9,81 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SistemaWebTallerMecanico.AplicacionWeb
 build_property.RootNamespace = SistemaWebTallerMecanico.AplicacionWeb
-build_property.ProjectDir = D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SistemaWebTallerMecanico.AplicacionWeb\
+build_property.ProjectDir = D:\camila\PROYECTOSISTEMA\SISTEMAWEB\SolutionSistemWeb\SistemaWebTallerMecanico.AplicacionWeb\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\SistemaWeb\SISTEMAWEB\SolutionSistemWeb\SistemaWebTallerMecanico.AplicacionWeb
+build_property.MSBuildProjectDirectory = D:\camila\PROYECTOSISTEMA\SISTEMAWEB\SolutionSistemWeb\SistemaWebTallerMecanico.AplicacionWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/SistemaWeb/SISTEMAWEB/SolutionSistemWeb/SistemaWebTallerMecanico.AplicacionWeb/Views/Home/Index.cshtml]
+[D:/camila/PROYECTOSISTEMA/SISTEMAWEB/SolutionSistemWeb/SistemaWebTallerMecanico.AplicacionWeb/Views/Categoria/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/camila/PROYECTOSISTEMA/SISTEMAWEB/SolutionSistemWeb/SistemaWebTallerMecanico.AplicacionWeb/Views/Compra/HistorialCompra.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhXEhpc3RvcmlhbENvbXByYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/camila/PROYECTOSISTEMA/SISTEMAWEB/SolutionSistemWeb/SistemaWebTallerMecanico.AplicacionWeb/Views/Compra/NuevaCompra.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhXE51ZXZhQ29tcHJhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/camila/PROYECTOSISTEMA/SISTEMAWEB/SolutionSistemWeb/SistemaWebTallerMecanico.AplicacionWeb/Views/Empresa/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/camila/PROYECTOSISTEMA/SISTEMAWEB/SolutionSistemWeb/SistemaWebTallerMecanico.AplicacionWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SistemaWeb/SISTEMAWEB/SolutionSistemWeb/SistemaWebTallerMecanico.AplicacionWeb/Views/Home/Privacy.cshtml]
+[D:/camila/PROYECTOSISTEMA/SISTEMAWEB/SolutionSistemWeb/SistemaWebTallerMecanico.AplicacionWeb/Views/Home/Perfil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQZXJmaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/camila/PROYECTOSISTEMA/SISTEMAWEB/SolutionSistemWeb/SistemaWebTallerMecanico.AplicacionWeb/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SistemaWeb/SISTEMAWEB/SolutionSistemWeb/SistemaWebTallerMecanico.AplicacionWeb/Views/Shared/Error.cshtml]
+[D:/camila/PROYECTOSISTEMA/SISTEMAWEB/SolutionSistemWeb/SistemaWebTallerMecanico.AplicacionWeb/Views/Plantilla/EnviarClave.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnRpbGxhXEVudmlhckNsYXZlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/camila/PROYECTOSISTEMA/SISTEMAWEB/SolutionSistemWeb/SistemaWebTallerMecanico.AplicacionWeb/Views/Plantilla/RestablecerClave.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnRpbGxhXFJlc3RhYmxlY2VyQ2xhdmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/camila/PROYECTOSISTEMA/SISTEMAWEB/SolutionSistemWeb/SistemaWebTallerMecanico.AplicacionWeb/Views/Reporte/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/camila/PROYECTOSISTEMA/SISTEMAWEB/SolutionSistemWeb/SistemaWebTallerMecanico.AplicacionWeb/Views/Servicio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/camila/PROYECTOSISTEMA/SISTEMAWEB/SolutionSistemWeb/SistemaWebTallerMecanico.AplicacionWeb/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SistemaWeb/SISTEMAWEB/SolutionSistemWeb/SistemaWebTallerMecanico.AplicacionWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/camila/PROYECTOSISTEMA/SISTEMAWEB/SolutionSistemWeb/SistemaWebTallerMecanico.AplicacionWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SistemaWeb/SISTEMAWEB/SolutionSistemWeb/SistemaWebTallerMecanico.AplicacionWeb/Views/_ViewImports.cshtml]
+[D:/camila/PROYECTOSISTEMA/SISTEMAWEB/SolutionSistemWeb/SistemaWebTallerMecanico.AplicacionWeb/Views/Usuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/camila/PROYECTOSISTEMA/SISTEMAWEB/SolutionSistemWeb/SistemaWebTallerMecanico.AplicacionWeb/Views/Velmotor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVsbW90b3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/camila/PROYECTOSISTEMA/SISTEMAWEB/SolutionSistemWeb/SistemaWebTallerMecanico.AplicacionWeb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SistemaWeb/SISTEMAWEB/SolutionSistemWeb/SistemaWebTallerMecanico.AplicacionWeb/Views/_ViewStart.cshtml]
+[D:/camila/PROYECTOSISTEMA/SISTEMAWEB/SolutionSistemWeb/SistemaWebTallerMecanico.AplicacionWeb/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SistemaWeb/SISTEMAWEB/SolutionSistemWeb/SistemaWebTallerMecanico.AplicacionWeb/Views/Shared/_Layout.cshtml]
+[D:/camila/PROYECTOSISTEMA/SISTEMAWEB/SolutionSistemWeb/SistemaWebTallerMecanico.AplicacionWeb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-mo13w7vb1x

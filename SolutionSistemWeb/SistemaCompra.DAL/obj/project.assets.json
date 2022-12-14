@@ -3242,19 +3242,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CAMIC\\.nuget\\packages\\": {}
+    "C:\\Users\\USUARIO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.DAL\\SistemaCompra.DAL.csproj",
+      "projectUniqueName": "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.DAL\\SistemaCompra.DAL.csproj",
       "projectName": "SistemaCompra.DAL",
-      "projectPath": "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.DAL\\SistemaCompra.DAL.csproj",
-      "packagesPath": "C:\\Users\\CAMIC\\.nuget\\packages\\",
-      "outputPath": "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.DAL\\obj\\",
+      "projectPath": "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.DAL\\SistemaCompra.DAL.csproj",
+      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+      "outputPath": "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemaCompra.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\CAMIC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3268,8 +3268,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemWebTaller.Entity\\SistemWebTaller.Entity.csproj": {
-              "projectPath": "D:\\SistemaWeb\\SISTEMAWEB\\SolutionSistemWeb\\SistemWebTaller.Entity\\SistemWebTaller.Entity.csproj"
+            "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemWebTaller.Entity\\SistemWebTaller.Entity.csproj": {
+              "projectPath": "D:\\camila\\PROYECTOSISTEMA\\SISTEMAWEB\\SolutionSistemWeb\\SistemWebTaller.Entity\\SistemWebTaller.Entity.csproj"
             }
           }
         }
